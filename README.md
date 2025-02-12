@@ -14,7 +14,7 @@ No COLTEC, estou aprofundando meus conhecimentos em diversas áreas, como **Prog
 
 <br/> 
 
-Possuo fácil aprendizado, sou proativa e dedicada. Acredito que a combinação de criatividade e funcionalidade é essencial para criar soluções que realmente façam a diferença.
+Tenho facilidade para aprender, sou proativa e altamente dedicada. Acredito que a combinação de criatividade e funcionalidade é essencial para criar soluções que realmente façam a diferença.
 
 <br/>
 <br/>
