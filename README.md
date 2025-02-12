@@ -2,7 +2,7 @@
 
 **`Técnica de Desenvolvimento de Sistemas`**
 
-Me chamo Ana Julia Ferreira Garcia, tenho 18 anos e sou natural de Belo Horizonte. Sou estudante do Colégio Técnico da UFMG (COLTEC) e estou fazendo o curso técnico em Desenvolvimento de Sistemas. 
+Me chamo Ana Julia Ferreira Garcia, tenho 17 anos e sou natural de Belo Horizonte. Sou estudante do Colégio Técnico da UFMG (COLTEC) e estou fazendo o curso técnico em Desenvolvimento de Sistemas. 
 
 <p align="left">
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=anajufg127@gmail.com" target="_blank"> 
@@ -17,46 +17,6 @@ Me chamo Ana Julia Ferreira Garcia, tenho 18 anos e sou natural de Belo Horizont
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Processing"
-    title="Processing" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" 
-/>
 <img 
     align="left" 
     alt="HTML" 
@@ -81,6 +41,46 @@ Me chamo Ana Julia Ferreira Garcia, tenho 18 anos e sou natural de Belo Horizont
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Processing"
+    title="Processing" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" 
+/>
 
 <br/>
 <br/>
@@ -88,14 +88,6 @@ Me chamo Ana Julia Ferreira Garcia, tenho 18 anos e sou natural de Belo Horizont
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anajufg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
