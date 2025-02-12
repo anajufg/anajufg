@@ -7,7 +7,11 @@
 
 Olá! Me chamo Ana Julia Ferreira Garcia, tenho 17 anos e sou natural de Belo Horizonte.  Atualmente, estou no 3º ano do curso Técnico em Desenvolvimento de Sistemas, integrado ao Ensino Médio, no Colégio Técnico da UFMG (COLTEC).
 
+<br/>
+
 No COLTEC, estou aprofundando meus conhecimentos em diversas áreas, como **Programação Orientada a Objetos** e **Desenvolvimento Web**, e tenho explorado o uso de **Bancos de Dados** para melhorar a estrutura e a eficiência dos sistemas.
+
+<br/> 
 
 Possuo fácil aprendizado, sou proativa e dedicada. Acredito que a combinação de criatividade e funcionalidade é essencial para criar soluções que realmente façam a diferença.
 
