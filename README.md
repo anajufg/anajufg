@@ -5,6 +5,8 @@
 
 **`Técnica de Desenvolvimento de Sistemas`**
 
+<br/>
+
 Olá! Me chamo Ana Julia Ferreira Garcia, tenho 17 anos e sou natural de Belo Horizonte.  Atualmente, estou no 3º ano do curso Técnico em Desenvolvimento de Sistemas, integrado ao Ensino Médio, no Colégio Técnico da UFMG (COLTEC).
 
 <br/>
